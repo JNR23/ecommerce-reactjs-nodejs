@@ -1,8 +1,8 @@
-## Tópicos do projeto E-Commerce até o deploy:
+# Project SPA - E-Commerce
 
-<br>
+## Topics from the E-Commerce project to deploy:
 
-### 1 - HTML5 e CSS3: Elementos Semânticos, CSS Grid, Flexbox
+### 1 - HTML5 e CSS3: Semantic Elements, CSS Grid, Flexbox
 ### 2 - React: Components, Props, Events, Hooks, Router, Axios
 ### 3 - Redux: Store, Reducers, Actions
 ### 4 - Node & Express: Web API, Body Parser, File Upload, JWT
