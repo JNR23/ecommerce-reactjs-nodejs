@@ -140,3 +140,8 @@ img.medium {
 .rating span:first-child {
   margin-left: 1rem;
 }
+
+.rating span:last-child {
+  color: #404040;
+  margin-left: 5px;
+}
